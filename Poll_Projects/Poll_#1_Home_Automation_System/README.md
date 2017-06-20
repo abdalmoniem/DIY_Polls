@@ -9,7 +9,7 @@ to create a home automation system to control appliances and devices through the
 
 # Schematic:
 
-![Circuit Diagram](https://raw.githubusercontent.com/abdalmoniem/DIY_Polls/Poll_Projects/Poll_#1_Home_Automation_System/Circuit_and_Schematic/home_automation_schem.png)
+![Circuit Schematic](https://raw.githubusercontent.com/abdalmoniem/DIY_Polls/Poll_Projects/Poll_#1_Home_Automation_System/Circuit_and_Schematic/home_automation_schem.png)
 
 # Video:
 [Watch it here](https://youtu.be/0KoH8uTKFFk)
