@@ -1,4 +1,4 @@
-# DIY_Polls
+# Poll Projects
 
 I will post poll projects in this repo.
 
