@@ -1,6 +1,6 @@
-# Poll Projects
+# ViCodes
 
-I will post poll projects in this repo.
+I will post my videos' codes in this repo.
 
 find my videos on youtube:
 
